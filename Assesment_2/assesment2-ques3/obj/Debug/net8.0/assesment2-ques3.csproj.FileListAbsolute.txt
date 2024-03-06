@@ -1,0 +1,14 @@
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/bin/Debug/net8.0/assesment2-ques3
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/bin/Debug/net8.0/assesment2-ques3.deps.json
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/bin/Debug/net8.0/assesment2-ques3.runtimeconfig.json
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/bin/Debug/net8.0/assesment2-ques3.dll
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/bin/Debug/net8.0/assesment2-ques3.pdb
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.GeneratedMSBuildEditorConfig.editorconfig
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.AssemblyInfoInputs.cache
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.AssemblyInfo.cs
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.csproj.CoreCompileInputs.cache
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.dll
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/refint/assesment2-ques3.dll
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.pdb
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/assesment2-ques3.genruntimeconfig.cache
+/home/deepa/dotnet/Assesment_2/assesment2-ques3/obj/Debug/net8.0/ref/assesment2-ques3.dll
